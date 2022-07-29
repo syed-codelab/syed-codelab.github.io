@@ -14,51 +14,36 @@
 .u-section-1 .u-text-2 {
   line-height: 1.8;
   font-size: 1.125rem;
-  margin: 30px 733px 0 324px;
-}
-
-.u-section-1 .u-text-3 {
-  line-height: 1.8;
-  font-size: 1.125rem;
-  margin: -31px 268px 0 448px;
+  margin: 29px 291px 0 245px;
 }
 
 .u-section-1 .u-btn-1 {
   border-style: none none solid;
   font-size: 1rem;
-  margin: -29px auto 48px 406px;
+  margin: -27px 253px 48px auto;
   padding: 0;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-text-2 {
-    margin-right: 633px;
-    margin-left: 224px;
-  }
-
-  .u-section-1 .u-text-3 {
-    margin-right: 168px;
-    margin-left: 348px;
+    margin-right: 191px;
+    margin-left: 145px;
+    width: 604px;
   }
 
   .u-section-1 .u-btn-1 {
-    margin-left: 206px;
+    margin-right: 53px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-1 .u-text-2 {
-    margin-right: 523px;
-    margin-left: 114px;
-  }
-
-  .u-section-1 .u-text-3 {
-    margin-right: 58px;
-    margin-left: 238px;
+    margin-right: 81px;
+    margin-left: 35px;
   }
 
   .u-section-1 .u-btn-1 {
-    margin-left: 0;
+    margin-right: 0;
   }
 }
 
@@ -68,13 +53,9 @@
   }
 
   .u-section-1 .u-text-2 {
-    margin-right: 433px;
-    margin-left: 24px;
-  }
-
-  .u-section-1 .u-text-3 {
     margin-right: 0;
-    margin-left: 116px;
+    margin-left: 0;
+    width: 540px;
   }
 }
 
@@ -84,12 +65,7 @@
   }
 
   .u-section-1 .u-text-2 {
-    margin-right: 257px;
-    margin-left: 0;
-  }
-
-  .u-section-1 .u-text-3 {
-    margin-left: 0;
+    width: 340px;
   }
 } .u-section-2 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("images/9d63430d-8f5d-4697-9139-18d3979ac77d.jpg");
@@ -105,18 +81,19 @@
   font-weight: 700;
   font-size: 4.5rem;
   width: 680px;
-  margin: 136px auto 0;
+  margin: 73px auto 0;
 }
 
 .u-section-2 .u-text-2 {
   width: 680px;
-  margin: 12px auto 0;
+  margin: 30px auto 0;
 }
 
 .u-section-2 .u-video-1 {
   width: 941px;
   height: 452px;
-  margin: 54px auto 60px;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  margin: 73px auto 60px;
 }
 
 .u-section-2 .embed-responsive-1 {
@@ -125,14 +102,6 @@
   left: -39%;
   height: 178%;
   top: -39%;
-}
-
-.u-section-2 .u-video-poster-1 {
-  width: 56%;
-  left: 22%;
-  height: 56%;
-  top: 22%;
-  background-image: url(images/803621467-0.jpeg);
 }
 
 @media (max-width: 1199px) {
