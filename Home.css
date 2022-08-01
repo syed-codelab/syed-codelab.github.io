@@ -56,8 +56,7 @@
 
 .u-section-2 .u-text-2 {
   font-size: 1.5rem;
-  width: 798px;
-  margin: 30px auto 0;
+  margin: 30px 245px 0 225px;
 }
 
 .u-section-2 .u-btn-1 {
@@ -81,6 +80,12 @@
     height: 3px;
   }
 
+  .u-section-2 .u-text-2 {
+    margin-left: 125px;
+    margin-right: 145px;
+    width: 798px;
+  }
+
   .u-section-2 .u-btn-1 {
     border-style: none;
   }
@@ -93,6 +98,8 @@
   }
 
   .u-section-2 .u-text-2 {
+    margin-left: 35px;
+    margin-right: 55px;
     width: 660px;
   }
 }
@@ -104,6 +111,8 @@
   }
 
   .u-section-2 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
     width: 520px;
   }
 }
